@@ -30,8 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.15
-
-  firebase_messaging_platform_interface: ^3.1.6
+  rflutter_alert: ^2.0.4
 
 
 
